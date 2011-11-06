@@ -1,5 +1,5 @@
 <?php
-// $Id: main.php,v 1.11 2004/12/26 19:11:56 onokazu Exp $
+// $Id$
 //%%%%%%		Module Name 'MyDownloads'		%%%%%
 
 define("_MD_THANKSFORINFO","Thanks for the information. We'll look into your request shortly.");

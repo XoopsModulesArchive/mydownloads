@@ -1,5 +1,5 @@
 <?php
-// $Id: mydownloads_top.php,v 1.11 2004/12/26 19:11:55 onokazu Exp $
+// $Id$
 //  ------------------------------------------------------------------------ //
 //                XOOPS - PHP Content Management System                      //
 //                    Copyright (c) 2000 XOOPS.org                           //

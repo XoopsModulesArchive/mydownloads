@@ -1,5 +1,5 @@
 <?php
-// $Id: ratefile.php,v 1.12 2004/12/26 19:11:56 onokazu Exp $
+// $Id$
 //  ------------------------------------------------------------------------ //
 //                XOOPS - PHP Content Management System                      //
 //                    Copyright (c) 2000 XOOPS.org                           //

@@ -1,5 +1,5 @@
 <?php
-// $Id: brokenfile.php,v 1.10 2004/12/26 19:11:55 onokazu Exp $
+// $Id$
 //  ------------------------------------------------------------------------ //
 //                XOOPS - PHP Content Management System                      //
 //                    Copyright (c) 2000 XOOPS.org                           //
