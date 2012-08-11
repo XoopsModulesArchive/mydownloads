@@ -5,7 +5,7 @@
 define("_MD_THANKSFORINFO","Thanks for the information. We'll look into your request shortly.");
 define("_MD_THANKSFORHELP","Thank you for helping to maintain this directory's integrity.");
 define("_MD_FORSECURITY","For security reasons your user name and IP address will also be temporarily recorded.");
-define("_MD_NOPERMISETOLINK", "This file doesn't belong to the site you came from <br /><br />Please e-mail the webmaster of the site you came from and tell him:   <br /><b>NOT TO LEECH OTHER SITES LINKS!!</b> <br /><br /><b>Definition of a Leecher:</b> One who is to lazy to link from his own server or steals other peoples hard work and makes it look like his own <br /><br />  Your IP address <b>has been logged</b>.");
+define("_MD_NOPERMISETOLINK","This file doesn't belong to the site you came from <br /><br />Please e-mail the webmaster of the site you came from and tell him:   <br /><b>NOT TO LEECH OTHER SITES LINKS!!</b> <br /><br /><b>Definition of a Leecher:</b> One who is to lazy to link from his own server or steals other peoples hard work and makes it look like his own <br /><br />  Your IP address <b>has been logged</b>.");
 define("_MD_ALL","ALL");
 define("_MD_DESCRIPTION","Description");
 define("_MD_SEARCH","Search");
